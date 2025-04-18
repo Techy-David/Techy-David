@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 -->
 
 ### :man_technologist: <h2>About Me :</h2> <br>
-- :telescope: Data Science | AI Enthusiast <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
+- :telescope: I am a Data Scientist and an AI Enthusiast <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 - :book: I'm passionate about using technology and analytics to solve real-world problems.
 - :book: I find joy in learning new skills and helping others grow.
 - :book: When I'm not coding, I love playing chess.
