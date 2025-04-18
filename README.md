@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 ### :man_technologist: <h2>About Me :</h2> <br>
 - :telescope: Data Science | AI Enthusiast <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
-- :book: I'm passionate about using technology and analytics to solve real-world problems. I find joy in learning new skills and helping others grow. When I'm not coding, I love playing chess.
+- :book: I'm passionate about using technology and analytics to solve real-world problems. <br> I find joy in learning new skills and helping others grow. <br> When I'm not coding, I love playing chess.
 - 💡 I’m available for contributions to open source projects, hackathons, and other opportunities.
 
 **Fun Quote**:
