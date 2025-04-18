@@ -1,4 +1,6 @@
-## Hi there 👋
+## Hi there 👋 <br>
+
+<h2>I'm David</h2>
 
 <!--
 **Techy-David/Techy-David** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
